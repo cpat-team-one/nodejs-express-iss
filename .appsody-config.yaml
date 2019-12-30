@@ -1,0 +1,2 @@
+project-name: nodejs-express-iss
+stack: kabanero/nodejs-express:0.2
